@@ -1,2 +1,2 @@
 # machine-Learning-with-Titanic-data
-prediction of the survival of Passenger in the popular Titanic Ship
+prediction of survival rate of Passengers in the popular Titanic Ship
