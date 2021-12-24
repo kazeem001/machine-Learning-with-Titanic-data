@@ -12,4 +12,5 @@
 
 
   # infomation about the dataset
-the Titanic dataset has information about the Passenger who boarded the Titan
+the Titanic dataset has information about the Passenger who boarded the Ti
+
