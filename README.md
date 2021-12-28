@@ -20,7 +20,9 @@ the Titanic dataset has informations ( such as Name, Gender, Title, ect) about t
 
 1. Data Exploration and Preparation
 2. Data Prepresentation and transformation
-3. 
+3. Data Visualiazation and presentation
+4. Data/Variable Selection
+5. Modeling
 
 # Reference
 1.https://en.wikipedia.org/wiki/Titanic
