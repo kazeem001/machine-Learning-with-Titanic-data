@@ -1,6 +1,7 @@
 # machine-Learning-with-Titanic-dataset
 
 # Introduction
+This project applies the concept of Machine Learning Algorithm to predict the survival statues of the passengers in the Titanic ship.
 
 # Requirement 
 
