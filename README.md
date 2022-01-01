@@ -1,7 +1,7 @@
 # Machine-Learning-with-Titanic-dataset
 
 # Introduction
-This project applies the concept of Machine Learning Algorithm to predict the survival statues of the passengers in the Titanic ship.
+This project applies the concept of Machine Learning Algorithm (SVC) to predict the survival statues of the passengers in the Titanic ship. The model was evaluated by cross_val with result of 83.04% accuracy
 
 # Requirement 
 
