@@ -19,11 +19,16 @@ the Titanic dataset has informations ( such as Name, Gender, Title, ect) about t
 
 # This Project address the following data analysis
 
-1. Data Exploration and Preparation
-2. Data Prepresentation and transformation
-3. Data Visualiazation and presentation
-4. Data/Variable Selection
-5. Modeling
+1. Data Exploration and Preparation: The goal of data exploration is to learn about characteristics and potential problems of a data set without the need to formulate assumptions about the data beforehand. In statistics, data exploration is often referred to as “exploratory data analysis” and contrasts traditional hypothesis testing
 
+2. Data  transformation: Data transformation is the process of converting data from one format to another, typically from the format of a source system into the required format of a destination system. Data transformation is a component of most data integration and data management tasks, such as data wrangling and data warehousing.
+ 
+4. Data Visualiazation and presentation :  Data visualization is the process of translating large data sets and metrics into charts, graphs and other visuals. The resulting visual representation of data makes it easier to identify and share real-time trends, outliers, and new insights about the information represented in the data.
+
+6. Data/Variable Selection: Data selection is defined as the process of determining the appropriate data type and source,
+7.
+8. Modeling : Here we build the model with various machine learning algorithm and choice the best them
+# Please find the code and other explaination in the Notebook
 # Reference
 1.https://en.wikipedia.org/wiki/Titanic
+2. Kaggle.com
