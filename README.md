@@ -26,9 +26,10 @@ the Titanic dataset has informations ( such as Name, Gender, Title, ect) about t
 4. Data Visualiazation and presentation :  Data visualization is the process of translating large data sets and metrics into charts, graphs and other visuals. The resulting visual representation of data makes it easier to identify and share real-time trends, outliers, and new insights about the information represented in the data.
 
 6. Data/Variable Selection: Data selection is defined as the process of determining the appropriate data type and source,
-7.
-8. Modeling : Here we build the model with various machine learning algorithm and choice the best them
+7.  Modeling : Here we build the model with various machine learning algorithm and choice the best them
 # Please find the code and other explaination in the Notebook
 # Reference
+
 1.https://en.wikipedia.org/wiki/Titanic
+
 2. Kaggle.com
